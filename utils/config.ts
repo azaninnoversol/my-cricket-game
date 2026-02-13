@@ -1,0 +1,3 @@
+export const NEXT_PUBLIC_SUPABASE_URL = "https://kpyjxjmnkdaqjxoflcwu.supabase.co";
+export const NEXT_PUBLIC_SUPABASE_ANON_KEY =
+  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImtweWp4am1ua2RhcWp4b2ZsY3d1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjU4MTk4NDEsImV4cCI6MjA4MTM5NTg0MX0.AuFCq7Lwgncbm3yLvGZyIoNCDmBNWBw9y2HLS8ESar0";
