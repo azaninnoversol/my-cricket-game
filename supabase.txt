@@ -1,0 +1,10 @@
+SUPABASE : backend as a service (BAAS) hai jo ke firebase ka alternative hai. aur iska database (PostgreSQL) use krta hai 
+PROVIDED_MATERIALS : 5
+
+1) AUTHENTICATION
+2) STORAGE : file, img and videos uploads
+3) FUNCTIONS : serverless function
+4) REAL_TIME : real time mai database mai changes allow krta hai.
+5) DATABASE : PostgreSQL use krta hai yani data ko table ki tarah store krta hai. example : Excel Sheets columns ese.
+
+ 
